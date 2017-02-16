@@ -1,0 +1,10 @@
+body {
+    background-color: 
+}
+
+.image{
+    background-image: url(image/timg.jpg);
+    background-position: center center;
+    background-size:cover;
+    height:200px;   
+}
